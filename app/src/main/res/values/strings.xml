@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="todo">todo</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="_120">120</string>
+    <string name="delete_all">Delete all</string>
+    <string name="content">Content</string>
+</resources>
